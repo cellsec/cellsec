@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Code Rust
 - 🤔 I’m looking for help with LLM
 - 💬 Ask me about Security
-- 📫 How to reach me: None
+- 📫 How to reach me: ny5zxq72d@mozmail.com
 - 😄 Pronouns: None
 - ⚡ Fun fact: None
